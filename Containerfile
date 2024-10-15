@@ -1,3 +1,3 @@
-FROM docker.io/ubuntu/nginx 
+FROM docker.io/redhattraining/nginx 
 MAINTAINER sakshi
 ENTRYPOINT ["/bin/bash"]
