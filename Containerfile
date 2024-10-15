@@ -1,3 +1,3 @@
-FROM docker.io/nvlab/http
+FROM docker.io/centos
 MAINTAINER sakshi
 ENTRYPOINT ["/bin/bash"]
